@@ -6,7 +6,7 @@
 
 # MOVIE SEARCH APP
 
-This project was created with react.js and css. The app was created to practice fetching APIs and displaying the information as components, in this apps different ES6 features were used such as arrow functions, also the use of state, components and props.
+This project was created with react.js and css. For the CSS the interface was organized by using flex-box properties and media queries for responsivness, the functionality was powered by react.js in this app were used different concepts of this technology such as JSX, components, hooks and props. The main purpose of this app was to use already existing openSource code to improve my abilities fetching APIs without axios and render that information on the application while also being able to search data by the 'title' provided by the JSON fetched.
 
 
 # Getting Started with Create React App
@@ -56,7 +56,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
