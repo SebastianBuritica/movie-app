@@ -1,3 +1,14 @@
+
+
+
+
+![Screenshot 2022-07-28 at 17-59-11 React App](https://user-images.githubusercontent.com/93333842/181651201-d267649e-5308-472b-b40a-aae72b0de111.png)
+
+# MOVIE SEARCH APP
+
+This project was created with react.js and css. The app was created to practice fetching APIs and displaying the information as components, in this apps different ES6 features were used such as arrow functions, also the use of state, components and props.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -61,10 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
